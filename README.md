@@ -2,7 +2,12 @@
 
 [![Tests](https://github.com/coder/claudecode.nvim/actions/workflows/test.yml/badge.svg)](https://github.com/coder/claudecode.nvim/actions/workflows/test.yml)
 ![Neovim version](https://img.shields.io/badge/Neovim-0.8%2B-green)
-![Status](https://img.shields.io/badge/Status-beta-blue)
+![Status](https://img.shields.io/badge/Status-wip-yellow)
+
+> [!NOTE]
+> **Work in progress.** Stable and usable as it stands, but still evolving:
+> changes, including breaking ones, can land at any time. Pin a commit if you
+> need a fixed target.
 
 **The first Neovim IDE integration for Claude Code** — bringing Anthropic's AI coding assistant to your favorite editor with a pure Lua implementation.
 
